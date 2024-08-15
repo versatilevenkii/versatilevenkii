@@ -22,7 +22,7 @@ EXCEL ANALYST  @ FOXCONN HON HAI BANGALORE
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>/> <img height="50" width="50"  src="https://img.icons8.com/ios-filled/50/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
 
-[!Venkata krishnan leetcode activity](https://leetcard.jacoblin.cool/venkatkrishnanmettur?theme=dark&font=Aldrich))
+[!Venkata krishnan leetcode activity]((https://leetcard.jacoblin.cool/venkatkrishnanmettur?theme=dark&font=Aldrich))
 
 
 
