@@ -22,12 +22,10 @@ EXCEL ANALYST  @ FOXCONN HON HAI BANGALORE
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>/> <img height="50" width="50"  src="https://img.icons8.com/ios-filled/50/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
 
-
-
-![Venkata Krishnan GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Venkata Krishnan GitHub stats]()
 
 [![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/venkatkrishnanmettur?theme=dark&font=Aldrich))
 
 
 
-[![Venkata krishnan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]()
+[![Venkata krishnan B github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=versatilevenkii&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
