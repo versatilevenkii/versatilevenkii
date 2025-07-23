@@ -8,7 +8,8 @@ EXCEL ANALYST  @ FOXCONN HON HAI BANGALORE
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />  [<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/venkata-krishnan-b-546907372/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-krishnan-b-546907372/)
+
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I am an Youtuber
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCD3kLQGJYBuADY6PRbSbPVw
