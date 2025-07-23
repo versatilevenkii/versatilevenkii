@@ -2,7 +2,7 @@
 
 EXCEL ANALYST  @ FOXCONN HON HAI BANGALORE
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://www.canva.com/design/DAFbqAzeNCo/DbM6LgkLpxvZbz28fg6YnQ/edit)                                                 
+                                                
 - 🌱 I’m currently learning Figma,HTML,CSS,BOOTSTRAP,JAVASCRIPT,REACT JS,JAVA
 - 👯 I’m looking to collaborate on UI/UX,FRONT END
 - 🤔 I’m looking for help with Placements in FAANG
@@ -17,11 +17,10 @@ EXCEL ANALYST  @ FOXCONN HON HAI BANGALORE
 )
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql.png" alt="mysql"/> <img width="50" height="50" src="https://img.icons8.com/color/50/numpy.png" alt="numpy"/> <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+<img height="50" width="50" src="(https://cdn-icons-png.flaticon.com/128/5968/5968705.png)" /><img width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png"
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>/> <img height="50" width="50"  src="https://img.icons8.com/ios-filled/50/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50"
 [![venkatkrishnanmettur's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=venkatkrishnanmettur&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 
