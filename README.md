@@ -16,8 +16,16 @@ EXCEL ANALYST  @ FOXCONN HON HAI BANGALORE
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD3kLQGJYBuADY6PRbSbPVw
 )
 
-### I code in
-<img height="50" width="50" src="(https://cdn-icons-png.flaticon.com/128/5968/5968705.png)" /><img width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png"
+### 🛠️ Tools I Use
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Adobe Illustrator" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="40" height="40" />
+</p>
+
+**Tools:** Figma · Adobe Illustrator · HTML · CSS
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50"
