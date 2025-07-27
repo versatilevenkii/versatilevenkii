@@ -16,7 +16,7 @@ PASSIONATED UI UX AND FRONT END DEVELOPER
 )
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD3kLQGJYBuADY6PRbSbPVw
 
-)- ![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn%20Impressions-12.3k-blue?logo=linkedin)
+)- ![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn%20Impressions-343-blue?logo=linkedin)
 
 )
 
