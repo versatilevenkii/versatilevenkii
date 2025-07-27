@@ -10,15 +10,11 @@ PASSIONATED UI UX AND FRONT END DEVELOPER
 - 📫 How to reach me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-krishnan-b-546907372/)
 
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I am an Youtuber
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCD3kLQGJYBuADY6PRbSbPVw
-)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD3kLQGJYBuADY6PRbSbPVw
-
-)- ![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn%20Impressions-343-blue?logo=linkedin)
-
-)
+- 😄 Pronouns: Techie  
+- ⚡ Fun fact: I am a YouTuber  
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)  
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)  
+- ![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn%20Impressions-343-blue?style=for-the-badge&logo=linkedin)
 
 ### 🛠️ Tools I Use
 
