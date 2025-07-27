@@ -28,8 +28,15 @@ PASSIONATED UI UX AND FRONT END DEVELOPER
 **Tools:** Figma · Adobe Illustrator · HTML · CSS
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50"
+<!-- Tool Icons -->
+<p align="left">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
+</p>
+
+<!-- LeetCode Stats -->
 [![venkatkrishnanmettur's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=venkatkrishnanmettur&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+
 
 
 
