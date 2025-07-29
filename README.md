@@ -1,20 +1,45 @@
 ## Hi there 👋 It's me B.VENKATA KRISHNAN
 
-PASSIONATED UI UX AND FRONT END DEVELOPER
+**PASSIONATED UI UX AND FRONT END DEVELOPER**
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                 
-- 🌱 I’m currently learning Figma,HTML,CSS,BOOTSTRAP,JAVASCRIPT,REACT JS,JAVA,MYSQL,CANVA.
-- 👯 I’m looking to collaborate on UI/UX,FRONT END
-- 🤔 I’m looking for help with Placements in FAANG
+- 🌱 I’m currently learning **Figma,HTML,CSS,BOOTSTRAP,JAVASCRIPT,REACT JS,JAVA,MYSQL,CANVA.**
+- 👯 I’m looking to collaborate on **UI/UX,FRONT END**
+- 🤔 **I’m looking for help with Placements in FAANG**
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-krishnan-b-546907372/)
 
 - 😄 Pronouns: Techie  
 - ⚡ Fun fact: I am a YouTuber  
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)  
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)  
+- **VENKAT EXPLORER** All Train Vlogs Bus
+- Hi, I'm Venkata Krishnan B 👋 — a techie by profession and a storyteller by passion.
+
+🎬 I own and manage **two YouTube channels**:
+- **Venkat Explorer** — A Tamil channel that brings **authentic train journeys and railway news** to life. My goal is to ensure that **every Tamil-speaking viewer stays connected** to real-time train updates and travel experiences.
+-   ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)  
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)
+
+- **Venkat Techopedia** — An English tech channel where I break down documentation, share insights on **tech trends, hackathons, internships, and research**, and teach what I learn — because **education is at the heart of what I do**.
+- [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC0DKVTx0Q2BygG98bXaeOEg?style=for-the-badge)](https://youtube.com/@venkatakrishnanmettur)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0DKVTx0Q2BygG98bXaeOEg?style=for-the-badge)](https://youtube.com/@venkatakrishnanmettur)
+📄 I'm also an **organic content writer** who loves simplifying tech through words.
+
+💡 I write **engaging, insightful posts** on LinkedIn around:
+- 🎨 **UI/UX design principles**
+- 🧠 **User psychology and behavior**
+- 💻 **Front-end development trends and tools**
+- 🚀 **Developer tips, resources, and community learnings**
+
+✨ I believe great content educates, inspires, and connects. With a background in both tech and storytelling, I craft content that bridges the gap between design and development.
+
+📢 If you’re into **human-centered design**, **developer-friendly tech**, or just love **clean, useful content** — we’ll get along well.
+
+Follow me on [LinkedIn](https://www.linkedin.com/in/venkata-krishnan-b-546907372/) for weekly tech wisdom, UI/UX thoughts, and content with real impact.
+
+  
 - ![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn%20Impressions-343-blue?style=for-the-badge&logo=linkedin)
+
 
 ### 🛠️ Tools I Use
 
