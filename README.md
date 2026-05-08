@@ -33,33 +33,3 @@ PASSIONATED FULL STACK DEVELOPER
 Follow me on [LinkedIn](https://www.linkedin.com/in/venkata-krishnan-b-318364409/)) for weekly tech wisdom.
 
 
-[![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn%20Impressions-343-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkata-krishnan-b-318364409/)
-```
-
-
-
-### 🛠️ Tools I Use
-
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" width="40" height="40" />
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Adobe Illustrator" width="40" height="40" />
-  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML" width="40" height="40" />
-  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="40" height="40" />
-</p>
-
-**Tools:** Figma · Adobe Illustrator · HTML · CSS
-
-### IDE and Tools I Use
-<!-- Tool Icons -->
-<p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
-</p>
-
-<!-- LeetCode Stats -->
-[![venkatkrishnanmettur's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=venkatkrishnanmettur&theme=Light)]
-
-
-
-
-[![Venkata krishnan B github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=versatilevenkii&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
