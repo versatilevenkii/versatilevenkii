@@ -32,8 +32,10 @@ PASSIONATED FULL STACK DEVELOPER
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/venkata-krishnan-b-318364409/)) for weekly tech wisdom.
 
-  
-- ![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn%20Impressions-343-blue?style=for-the-badge&logo=linkedin)
+
+[![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn%20Impressions-343-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkata-krishnan-b-318364409/)
+```
+
 
 
 ### 🛠️ Tools I Use
@@ -55,7 +57,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/venkata-krishnan-b-318364409
 </p>
 
 <!-- LeetCode Stats -->
-[![venkatkrishnanmettur's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=venkatkrishnanmettur&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+[![venkatkrishnanmettur's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=venkatkrishnanmettur&theme=Light)]
 
 
 
