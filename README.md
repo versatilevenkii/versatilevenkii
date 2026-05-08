@@ -1,10 +1,10 @@
 ## Hi there 👋 It's me B.VENKATA KRISHNAN
 
-**PASSIONATED UI UX AND FRONT END DEVELOPER**
+**PASSIONATED FULL STACK DEVELOPER
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                 
-- 🌱 I’m currently learning **Figma,HTML,CSS,BOOTSTRAP,JAVASCRIPT,REACT JS,JAVA,MYSQL,CANVA.**
-- 👯 I’m looking to collaborate on **UI/UX,FRONT END**
+- 🌱 I’m currently learning **HTML **
+- 👯 I’m looking to collaborate on **FULL STACK**
 - 🤔 **I’m looking for help with Placements in FAANG**
 - 💬 Ask me about Tech
 - 📫 How to reach me :
@@ -20,20 +20,15 @@
 -   ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)  
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)
 
-- **Venkat Techopedia** — An English tech channel where I break down documentation, share insights on **tech trends, hackathons, internships, and research**, and teach what I learn — because **education is at the heart of what I do**.
-- [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC0DKVTx0Q2BygG98bXaeOEg?style=for-the-badge)](https://youtube.com/@venkatakrishnanmettur)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0DKVTx0Q2BygG98bXaeOEg?style=for-the-badge)](https://youtube.com/@venkatakrishnanmettur)
-📄 I'm also an **organic content writer** who loves simplifying tech through words.
+
 
 💡 I write **engaging, insightful posts** on LinkedIn around:
-- 🎨 **UI/UX design principles**
-- 🧠 **User psychology and behavior**
-- 💻 **Front-end development trends and tools**
+- 💻 **Software engineer  trends and tools**
 - 🚀 **Developer tips, resources, and community learnings**
 
 ✨ I believe great content educates, inspires, and connects. With a background in both tech and storytelling, I craft content that bridges the gap between design and development.
 
-📢 If you’re into **human-centered design**, **developer-friendly tech**, or just love **clean, useful content** — we’ll get along well.
+
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/venkata-krishnan-b-546907372/) for weekly tech wisdom, UI/UX thoughts, and content with real impact.
 
