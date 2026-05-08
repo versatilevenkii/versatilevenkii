@@ -15,7 +15,7 @@
 - **VENKAT EXPLORER** All Train Vlogs Bus
 - Hi, I'm Venkata Krishnan B 👋 — a techie by profession and a storyteller by passion.
 
-🎬 I own and manage **two YouTube channels**:
+🎬 I own and manage **One YouTube channels**:
 - **Venkat Explorer** — A Tamil channel that brings **authentic train journeys and railway news** to life. My goal is to ensure that **every Tamil-speaking viewer stays connected** to real-time train updates and travel experiences.
 -   ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)  
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD3kLQGJYBuADY6PRbSbPVw?style=for-the-badge)
